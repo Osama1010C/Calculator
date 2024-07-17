@@ -1,0 +1,14 @@
+C:\Osama_Code\.Net\C#\Projects\Small Projects\Calculator\Calculator\bin\Debug\net8.0\Calculator.exe
+C:\Osama_Code\.Net\C#\Projects\Small Projects\Calculator\Calculator\bin\Debug\net8.0\Calculator.deps.json
+C:\Osama_Code\.Net\C#\Projects\Small Projects\Calculator\Calculator\bin\Debug\net8.0\Calculator.runtimeconfig.json
+C:\Osama_Code\.Net\C#\Projects\Small Projects\Calculator\Calculator\bin\Debug\net8.0\Calculator.dll
+C:\Osama_Code\.Net\C#\Projects\Small Projects\Calculator\Calculator\bin\Debug\net8.0\Calculator.pdb
+C:\Osama_Code\.Net\C#\Projects\Small Projects\Calculator\Calculator\obj\Debug\net8.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Osama_Code\.Net\C#\Projects\Small Projects\Calculator\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfoInputs.cache
+C:\Osama_Code\.Net\C#\Projects\Small Projects\Calculator\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfo.cs
+C:\Osama_Code\.Net\C#\Projects\Small Projects\Calculator\Calculator\obj\Debug\net8.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Osama_Code\.Net\C#\Projects\Small Projects\Calculator\Calculator\obj\Debug\net8.0\Calculator.dll
+C:\Osama_Code\.Net\C#\Projects\Small Projects\Calculator\Calculator\obj\Debug\net8.0\refint\Calculator.dll
+C:\Osama_Code\.Net\C#\Projects\Small Projects\Calculator\Calculator\obj\Debug\net8.0\Calculator.pdb
+C:\Osama_Code\.Net\C#\Projects\Small Projects\Calculator\Calculator\obj\Debug\net8.0\Calculator.genruntimeconfig.cache
+C:\Osama_Code\.Net\C#\Projects\Small Projects\Calculator\Calculator\obj\Debug\net8.0\ref\Calculator.dll

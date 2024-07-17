@@ -1,0 +1,5 @@
+C:\Osama_Code\.Net\C#\Projects\Small Projects\Calculator\Calculator\bin\Release\net8.0\app.publish\Calculator.exe
+C:\Osama_Code\.Net\C#\Projects\Small Projects\Calculator\Calculator\bin\Release\net8.0\app.publish\Calculator.dll
+C:\Osama_Code\.Net\C#\Projects\Small Projects\Calculator\Calculator\bin\Release\net8.0\app.publish\Calculator.deps.json
+C:\Osama_Code\.Net\C#\Projects\Small Projects\Calculator\Calculator\bin\Release\net8.0\app.publish\Calculator.runtimeconfig.json
+C:\Osama_Code\.Net\C#\Projects\Small Projects\Calculator\Calculator\bin\Release\net8.0\app.publish\Calculator.pdb
